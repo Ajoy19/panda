@@ -1,3 +1,6 @@
+body{
+    scroll-behavior: smooth;
+}
 .container{
     margin-bottom: 50px;
 }
@@ -34,4 +37,12 @@
 }
 .cat3{
     background-image: linear-gradient(to left, #004bfb 0%, #030978 100%)
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background-color: #fff;
 }
