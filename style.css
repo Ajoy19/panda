@@ -3,6 +3,7 @@
 }
 .bg-pink{
     background-color: #FEEAE9;
+    border-radius: 10px;
 }
 .btn-buy-now{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
@@ -26,11 +27,11 @@
     border-radius: 20px;
 }
 .cat1{
-    background-color: #ffac13;
+    background-image: linear-gradient(to left, #FF589B 0%, #FF136F 100%)
 }
 .cat2{
-    background-color: #FF136F;
+    background-image: linear-gradient(to left, #fcbe02 0%, #ff9100 100%)
 }
 .cat3{
-    background-color: #012f92;
+    background-image: linear-gradient(to left, #004bfb 0%, #030978 100%)
 }
